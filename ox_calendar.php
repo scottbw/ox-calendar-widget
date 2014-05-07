@@ -32,6 +32,7 @@
 $currentlyOccupied = array();
 
 define('OX_CALENDAR_VERSION', '0.3');
+define('ICALEVENTS_VERSION', '1.0');
 
 class oxCalendar extends WP_Widget {
 	private	/** @type {string} */ $widgetFilePath;
